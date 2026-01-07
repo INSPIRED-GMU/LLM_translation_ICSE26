@@ -1,0 +1,1307 @@
+Found 263 total repos matching stars:>10000 forks:>10000.
+
+Processing repos 1 through 10 (of 263)...
+1. Checking repo 'freeCodeCamp/freeCodeCamp' for PRs containing 'translate readme'...
+   Found 30 matching PR(s):
+      - docs(i18n): reviewing current italian translation of README.md (https://github.com/freeCodeCamp/freeCodeCamp/pull/39388)
+      - docs(i18n): translating README.md into Ukrainian (https://github.com/freeCodeCamp/freeCodeCamp/pull/37230)
+      - docs(i18n): Vietnamese translation for README.md (https://github.com/freeCodeCamp/freeCodeCamp/pull/37013)
+      - docs(i18n): Portuguese translation of README file (https://github.com/freeCodeCamp/freeCodeCamp/pull/36993)
+      - docs: add Japanese translation of README.md (https://github.com/freeCodeCamp/freeCodeCamp/pull/36772)
+      - doc - Update French README (add links, update translation) (https://github.com/freeCodeCamp/freeCodeCamp/pull/36282)
+      - docs: fixed table, references and translations for the Russian version of the README.md (https://github.com/freeCodeCamp/freeCodeCamp/pull/35140)
+      - docs: translate README to chinese (https://github.com/freeCodeCamp/freeCodeCamp/pull/34746)
+      - README (french) : fix automatic translation (https://github.com/freeCodeCamp/freeCodeCamp/pull/34622)
+      - Translate specific terms in readme.md (https://github.com/freeCodeCamp/freeCodeCamp/pull/33965)
+      - Translated this README file to Russian (https://github.com/freeCodeCamp/freeCodeCamp/pull/30411)
+      - /docs/russian/README.md Russian translation added (https://github.com/freeCodeCamp/freeCodeCamp/pull/30406)
+      - Translate README.md from English to Russian (https://github.com/freeCodeCamp/freeCodeCamp/pull/29835)
+      - README - Translate to thai language (https://github.com/freeCodeCamp/freeCodeCamp/pull/29733)
+      - swedish translation of README.md (https://github.com/freeCodeCamp/freeCodeCamp/pull/28944)
+      - russian translation of documentation quick reference readme.md (https://github.com/freeCodeCamp/freeCodeCamp/pull/27851)
+      - Created Romanian translation for the freeCodeCamp README.MD file. (https://github.com/freeCodeCamp/freeCodeCamp/pull/26585)
+      - Translated all  overall descriptions in README (https://github.com/freeCodeCamp/freeCodeCamp/pull/26476)
+      - Created Italian translation for the freeCodeCamp README.MD file. (https://github.com/freeCodeCamp/freeCodeCamp/pull/25705)
+      - Translating README file into Arabic (https://github.com/freeCodeCamp/freeCodeCamp/pull/24809)
+      - Translation of the README.md file [version Arabic] (https://github.com/freeCodeCamp/freeCodeCamp/pull/23097)
+      - Fix translation in Spanish README.md (https://github.com/freeCodeCamp/freeCodeCamp/pull/21848)
+      - Fix translation in Spanish README.md (https://github.com/freeCodeCamp/freeCodeCamp/pull/21827)
+      - Improve Portuguese translation - README.md (https://github.com/freeCodeCamp/freeCodeCamp/pull/21004)
+      - Added Russian Translation to README.md (https://github.com/freeCodeCamp/freeCodeCamp/pull/20981)
+      - Start with the Macedonian translation - Add README.md (https://github.com/freeCodeCamp/freeCodeCamp/pull/20760)
+      - Translate README.md to Russian (https://github.com/freeCodeCamp/freeCodeCamp/pull/20132)
+      - Partially translated README.md (https://github.com/freeCodeCamp/freeCodeCamp/pull/19008)
+      - Translated README.md [Portuguese] (https://github.com/freeCodeCamp/freeCodeCamp/pull/18324)
+      - (translate) freeCodeCamp how to catch outgoing emails locally README to spanish (https://github.com/freeCodeCamp/freeCodeCamp/pull/18323)
+------------------------------------------------------------
+2. Checking repo 'EbookFoundation/free-programming-books' for PRs containing 'translate readme'...
+   Found 1 matching PR(s):
+      - [README.md] fix: French translation of CoC title (https://github.com/EbookFoundation/free-programming-books/pull/9130)
+------------------------------------------------------------
+3. Checking repo 'sindresorhus/awesome' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+4. Checking repo 'codecrafters-io/build-your-own-x' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+5. Checking repo 'public-apis/public-apis' for PRs containing 'translate readme'...
+   Found 1 matching PR(s):
+      - Added in translations for README.md and added in links in README.md (https://github.com/public-apis/public-apis/pull/1316)
+------------------------------------------------------------
+6. Checking repo 'jwasham/coding-interview-university' for PRs containing 'translate readme'...
+   Found 10 matching PR(s):
+      - Fix translation errors in README-cn.md file (https://github.com/jwasham/coding-interview-university/pull/1535)
+      - Marathi translation README-mr.md (https://github.com/jwasham/coding-interview-university/pull/1455)
+      - Modify README.md "中文版本" to "简体中文" / modify some translations in Traditional Chinese (https://github.com/jwasham/coding-interview-university/pull/1445)
+      - Update Bulgarian Translation; README-bg.md (https://github.com/jwasham/coding-interview-university/pull/1093)
+      - Partial translation of french readme (https://github.com/jwasham/coding-interview-university/pull/459)
+      - Moving README-he.md file to translations folder #97 (https://github.com/jwasham/coding-interview-university/pull/319)
+      - translated some part of README en-uk (https://github.com/jwasham/coding-interview-university/pull/299)
+      - Update README according to Translation in progress (https://github.com/jwasham/coding-interview-university/pull/295)
+      - Translated a few lines of the README from English to French (https://github.com/jwasham/coding-interview-university/pull/285)
+      - Update README.md for issue #82 Hebrew translation (https://github.com/jwasham/coding-interview-university/pull/85)
+------------------------------------------------------------
+7. Checking repo 'kamranahmedse/developer-roadmap' for PRs containing 'translate readme'...
+   Found 2 matching PR(s):
+      - Add spanish translation of readme.md (https://github.com/kamranahmedse/developer-roadmap/pull/2541)
+      - Add translation sector and link on README.md (https://github.com/kamranahmedse/developer-roadmap/pull/557)
+------------------------------------------------------------
+8. Checking repo 'donnemartin/system-design-primer' for PRs containing 'translate readme'...
+   Found 4 matching PR(s):
+      - Translate README to Thai (README-th.md) (https://github.com/donnemartin/system-design-primer/pull/1013)
+      - Add README-vi.md, translate motivation section (https://github.com/donnemartin/system-design-primer/pull/715)
+      - zh-Hans:change some of the links of solutions from README.md to README-zh-Hans.md in Chinese translation (https://github.com/donnemartin/system-design-primer/pull/613)
+      - German Translation README-de.md (https://github.com/donnemartin/system-design-primer/pull/577)
+------------------------------------------------------------
+9. Checking repo '996icu/996.ICU' for PRs containing 'translate readme'...
+   Found 2 matching PR(s):
+      - Updated README with translated "Proposals" section (https://github.com/996icu/996.ICU/pull/24924)
+      - fix grammatical errors in README.md and improve Japanese translation (https://github.com/996icu/996.ICU/pull/24755)
+------------------------------------------------------------
+10. Checking repo 'vinta/awesome-python' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+Finished this batch.
+
+Processing repos 11 through 20 (of 263)...
+11. Checking repo 'facebook/react' for PRs containing 'translate readme'...
+   Found 2 matching PR(s):
+      - Adding translated pages for README.md (https://github.com/facebook/react/pull/32073)
+      - Translation react/README.md -> react.README.test.md to (https://github.com/facebook/react/pull/11351)
+------------------------------------------------------------
+12. Checking repo 'practical-tutorials/project-based-learning' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+13. Checking repo 'awesome-selfhosted/awesome-selfhosted' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+14. Checking repo 'vuejs/vue' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+15. Checking repo 'TheAlgorithms/Python' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+16. Checking repo 'trekhleb/javascript-algorithms' for PRs containing 'translate readme'...
+   Found 13 matching PR(s):
+      - feat: Added hebrew translation to README in all languages (https://github.com/trekhleb/javascript-algorithms/pull/1202)
+      - Add README Farsi translation (https://github.com/trekhleb/javascript-algorithms/pull/1089)
+      - add german translation for main readme (https://github.com/trekhleb/javascript-algorithms/pull/703)
+      - Add chinesre translation of math/bits README.md (https://github.com/trekhleb/javascript-algorithms/pull/614)
+      - Add Ukrainian translation of the main README file. (https://github.com/trekhleb/javascript-algorithms/pull/613)
+      - Fix portuguese translation of graph on README (https://github.com/trekhleb/javascript-algorithms/pull/503)
+      - Add README.ko-KR.md(translation) in 'data-structures/linked-list' (https://github.com/trekhleb/javascript-algorithms/pull/433)
+      - Russian version of the translation for README (https://github.com/trekhleb/javascript-algorithms/pull/388)
+      - Translate README.pt-BR (https://github.com/trekhleb/javascript-algorithms/pull/386)
+      - Translate hash table into Russian. Add links into English README (https://github.com/trekhleb/javascript-algorithms/pull/318)
+      - Translate heap into Russian. Add links to main README file. (https://github.com/trekhleb/javascript-algorithms/pull/317)
+      - Added spanish translation for README.md (https://github.com/trekhleb/javascript-algorithms/pull/148)
+      - Spanish translatation of README.md (https://github.com/trekhleb/javascript-algorithms/pull/147)
+------------------------------------------------------------
+17. Checking repo 'torvalds/linux' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+18. Checking repo 'tensorflow/tensorflow' for PRs containing 'translate readme'...
+   Found 2 matching PR(s):
+      - Tensorflow translate readme (https://github.com/tensorflow/tensorflow/pull/60804)
+      - README Spanish translation. (https://github.com/tensorflow/tensorflow/pull/57130)
+------------------------------------------------------------
+19. Checking repo 'getify/You-Dont-Know-JS' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+20. Checking repo 'CyC2018/CS-Notes' for PRs containing 'translate readme'...
+   Found 1 matching PR(s):
+      - Made English translation of the ReadMe (https://github.com/CyC2018/CS-Notes/pull/718)
+------------------------------------------------------------
+Finished this batch.
+
+Processing repos 21 through 30 (of 263)...
+21. Checking repo 'ohmyzsh/ohmyzsh' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+22. Checking repo 'ossu/computer-science' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+23. Checking repo 'Significant-Gravitas/AutoGPT' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+24. Checking repo 'twbs/bootstrap' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+25. Checking repo 'flutter/flutter' for PRs containing 'translate readme'...
+   Found 2 matching PR(s):
+      - add readme pt-br translation (https://github.com/flutter/flutter/pull/41745)
+      - Translate readme to brazilian portuguese (https://github.com/flutter/flutter/pull/33958)
+------------------------------------------------------------
+26. Checking repo 'microsoft/vscode' for PRs containing 'translate readme'...
+   Found 2 matching PR(s):
+      - Translation of README.md (https://github.com/microsoft/vscode/pull/107038)
+      -  pt-br translation for the README file  (https://github.com/microsoft/vscode/pull/61449)
+------------------------------------------------------------
+27. Checking repo 'github/gitignore' for PRs containing 'translate readme'...
+   Found 1 matching PR(s):
+      - Add default file, README in libraries and translations in Drupal (https://github.com/github/gitignore/pull/2458)
+------------------------------------------------------------
+28. Checking repo 'jackfrued/Python-100-Days' for PRs containing 'translate readme'...
+   Found 2 matching PR(s):
+      - Chinese to English readme translation  (https://github.com/jackfrued/Python-100-Days/pull/1067)
+      - Update README.md(add English Translation)#997 (https://github.com/jackfrued/Python-100-Days/pull/1009)
+------------------------------------------------------------
+29. Checking repo 'trimstray/the-book-of-secret-knowledge' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+30. Checking repo 'jlevy/the-art-of-command-line' for PRs containing 'translate readme'...
+   Found 2 matching PR(s):
+      - Fix translation errors in README-fr.md (https://github.com/jlevy/the-art-of-command-line/pull/903)
+      - Add portuguese translation - README-pt.md (https://github.com/jlevy/the-art-of-command-line/pull/137)
+------------------------------------------------------------
+Finished this batch.
+
+Processing repos 31 through 40 (of 263)...
+31. Checking repo 'AUTOMATIC1111/stable-diffusion-webui' for PRs containing 'translate readme'...
+   Found 1 matching PR(s):
+      - Translated README.md into Polish (https://github.com/AUTOMATIC1111/stable-diffusion-webui/pull/9682)
+------------------------------------------------------------
+32. Checking repo 'Snailclimb/JavaGuide' for PRs containing 'translate readme'...
+   Found 1 matching PR(s):
+      - README English Translation (https://github.com/Snailclimb/JavaGuide/pull/1480)
+------------------------------------------------------------
+33. Checking repo 'airbnb/javascript' for PRs containing 'translate readme'...
+   Found 4 matching PR(s):
+      - Added a translation section & links to translations to CSS-in-javascript readme (https://github.com/airbnb/javascript/pull/2750)
+      - French translation for README.md (https://github.com/airbnb/javascript/pull/962)
+      - Japanese Translation for Readme Link (https://github.com/airbnb/javascript/pull/921)
+      - Link to Japanese Translation for readme (https://github.com/airbnb/javascript/pull/920)
+------------------------------------------------------------
+34. Checking repo 'huggingface/transformers' for PRs containing 'translate readme'...
+   Found 21 matching PR(s):
+      - [i18n-ar] Translated file `i18n/README_de.md` into Arabic  (https://github.com/huggingface/transformers/pull/32612)
+      - [i18n-ar] Translated file `i18n/README_pt-br.md` into Arabic  (https://github.com/huggingface/transformers/pull/32611)
+      - [i18n-ar] Translated file `i18n/README_fr.md` into Arabic  (https://github.com/huggingface/transformers/pull/32610)
+      - [i18n-ar] Translated file `i18n/README_ru.md` into Arabic  (https://github.com/huggingface/transformers/pull/32609)
+      - [i18n-ar] Translated file `i18n/README_te.md` into Arabic  (https://github.com/huggingface/transformers/pull/32608)
+      - [i18n-ar] Translated file `i18n/README_vi.md` into Arabic  (https://github.com/huggingface/transformers/pull/32607)
+      - [i18n-ar] Translated file `i18n/README_zh-hans.md` into Arabic  (https://github.com/huggingface/transformers/pull/32606)
+      - [i18n-ar] Translated file `i18n/README_zh-hant.md` into Arabic  (https://github.com/huggingface/transformers/pull/32605)
+      - [i18n-vi] Translate README.md to Vietnamese (https://github.com/huggingface/transformers/pull/29229)
+      - Fix missing translation in README_ru (https://github.com/huggingface/transformers/pull/29054)
+      - Add Arabic translation for README (https://github.com/huggingface/transformers/pull/29052)
+      - [i18n-de] Translate README.md to German (https://github.com/huggingface/transformers/pull/28933)
+      - Fix links in README translations for Llama2 Models (https://github.com/huggingface/transformers/pull/28910)
+      - Add French translation: french README.md (https://github.com/huggingface/transformers/pull/28696)
+      - Added Telugu [te] translation for README.md in main (https://github.com/huggingface/transformers/pull/27077)
+      - Fix a typo in examples/pytorch/translation/README.md (https://github.com/huggingface/transformers/pull/20188)
+      - Add Japanese translated README (https://github.com/huggingface/transformers/pull/19945)
+      - [examples/summarization and translation] fix readme (https://github.com/huggingface/transformers/pull/15833)
+      - Translate README.md to Korean (https://github.com/huggingface/transformers/pull/14015)
+      - Translate README.md to Traditional Chinese (https://github.com/huggingface/transformers/pull/12701)
+      - Translate README.md to Simplified Chinese (https://github.com/huggingface/transformers/pull/12596)
+------------------------------------------------------------
+35. Checking repo 'avelino/awesome-go' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+36. Checking repo 'ytdl-org/youtube-dl' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+37. Checking repo 'vercel/next.js' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+38. Checking repo 'ollama/ollama' for PRs containing 'translate readme'...
+   Found 2 matching PR(s):
+      - Add Chinese translation of README (https://github.com/ollama/ollama/pull/5079)
+      - Add Chinese translation of README (https://github.com/ollama/ollama/pull/5078)
+------------------------------------------------------------
+39. Checking repo 'labuladong/fucking-algorithm' for PRs containing 'translate readme'...
+   Found 2 matching PR(s):
+      - translated the KMP and modified the README.MD fixed #199 (https://github.com/labuladong/fucking-algorithm/pull/203)
+      - translated the KMP article and modify README.MD (https://github.com/labuladong/fucking-algorithm/pull/202)
+------------------------------------------------------------
+40. Checking repo 'golang/go' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+Finished this batch.
+
+Processing repos 41 through 50 (of 263)...
+41. Checking repo 'Chalarangelo/30-seconds-of-code' for PRs containing 'translate readme'...
+   Found 1 matching PR(s):
+      - add a readme_CN.md file translate to Chinese   (https://github.com/Chalarangelo/30-seconds-of-code/pull/634)
+------------------------------------------------------------
+42. Checking repo 'yangshun/tech-interview-handbook' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+43. Checking repo 'massgravel/Microsoft-Activation-Scripts' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+44. Checking repo 'f/awesome-chatgpt-prompts' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+45. Checking repo 'facebook/react-native' for PRs containing 'translate readme'...
+   Found 1 matching PR(s):
+      - Translate Readme to Brazilian Portuguese (https://github.com/facebook/react-native/pull/18049)
+------------------------------------------------------------
+46. Checking repo 'Genymobile/scrcpy' for PRs containing 'translate readme'...
+   Found 14 matching PR(s):
+      - Move README and FAQ translations to the wiki (https://github.com/Genymobile/scrcpy/pull/3393)
+      - Update and fixes to README.md, FAQ.md, README.pt-br.md and adding translation for FAQ. (https://github.com/Genymobile/scrcpy/pull/3379)
+      - German translation of the README.md (https://github.com/Genymobile/scrcpy/pull/3023)
+      - 🇷🇺 Russian translation of README (https://github.com/Genymobile/scrcpy/pull/2516)
+      - Spanish README.md translation (https://github.com/Genymobile/scrcpy/pull/2318)
+      - Italian translation of README and FAQ (https://github.com/Genymobile/scrcpy/pull/2316)
+      - Update README's Brazilian Portuguese translation to 1.17 version (https://github.com/Genymobile/scrcpy/pull/2034)
+      - Update Chinese Simplified translation for README (https://github.com/Genymobile/scrcpy/pull/2029)
+      - Add Indonesian translation for README.md (https://github.com/Genymobile/scrcpy/pull/1802)
+      - Add Simplified Chinese translation for README.md. (https://github.com/Genymobile/scrcpy/pull/1723)
+      - Traditional Chinese translation for README (https://github.com/Genymobile/scrcpy/pull/1644)
+      - Traditional Chinese translation for README (https://github.com/Genymobile/scrcpy/pull/1626)
+      - translate README.md and FAQ.md into Korean (https://github.com/Genymobile/scrcpy/pull/934)
+      - translate README.md and FAQ.md into Korean (https://github.com/Genymobile/scrcpy/pull/928)
+------------------------------------------------------------
+47. Checking repo 'electron/electron' for PRs containing 'translate readme'...
+   Found 12 matching PR(s):
+      - fix word docs-translation/README.md, CODE_OF_CONDUCT.md (https://github.com/electron/electron/pull/11207)
+      - fix words docs-translations/README.md (https://github.com/electron/electron/pull/11201)
+      - Fix words docs-translations/README.md (https://github.com/electron/electron/pull/11200)
+      - fix: wrong translation link in README (https://github.com/electron/electron/pull/11145)
+      - Add German translation for README and Contributor Covenant (https://github.com/electron/electron/pull/9784)
+      - Add translated CODE_OF_CONDUCT.md and README.md for spanish language. (https://github.com/electron/electron/pull/8906)
+      - Fix links in docs-translations/pt-BR/README.md (https://github.com/electron/electron/pull/7736)
+      - updated translation for README.md (https://github.com/electron/electron/pull/5957)
+      - Update docs-translations/jp/README.md tranlation. (https://github.com/electron/electron/pull/4629)
+      - fixed typo in the russian translation of README.md (https://github.com/electron/electron/pull/4503)
+      - translate the supported-platforms.md and update the README.md (https://github.com/electron/electron/pull/3076)
+      - Translate docs into korean #2 + added link of power-save-blocker API to README (https://github.com/electron/electron/pull/2093)
+------------------------------------------------------------
+48. Checking repo 'kubernetes/kubernetes' for PRs containing 'translate readme'...
+   Found 2 matching PR(s):
+      - Fix the typo in translations' README.md (https://github.com/kubernetes/kubernetes/pull/46749)
+      - Fix go-xgettext (go get) reference on translations README (https://github.com/kubernetes/kubernetes/pull/46571)
+------------------------------------------------------------
+49. Checking repo 'justjavac/free-programming-books-zh_CN' for PRs containing 'translate readme'...
+   Found 1 matching PR(s):
+      - Translated the Readme file to English (https://github.com/justjavac/free-programming-books-zh_CN/pull/810)
+------------------------------------------------------------
+50. Checking repo 'd3/d3' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+Finished this batch.
+
+Processing repos 51 through 60 (of 263)...
+51. Checking repo 'nodejs/node' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+52. Checking repo 'krahets/hello-algo' for PRs containing 'translate readme'...
+   Found 2 matching PR(s):
+      - translation: Update README.md (https://github.com/krahets/hello-algo/pull/964)
+      - translation: Refined the automated translation of README (https://github.com/krahets/hello-algo/pull/932)
+------------------------------------------------------------
+53. Checking repo 'axios/axios' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+54. Checking repo 'mrdoob/three.js' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+55. Checking repo 'facebook/create-react-app' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+56. Checking repo 'microsoft/TypeScript' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+57. Checking repo 'goldbergyoni/nodebestpractices' for PRs containing 'translate readme'...
+   Found 7 matching PR(s):
+      - README.spanish.md update to ongoing spanish translation (https://github.com/goldbergyoni/nodebestpractices/pull/1279)
+      - Translate README.korean.md (https://github.com/goldbergyoni/nodebestpractices/pull/818)
+      - fix brazilian-portuguese translation README 3.4 topic (https://github.com/goldbergyoni/nodebestpractices/pull/789)
+      - Translate the rest of README.korean.md (https://github.com/goldbergyoni/nodebestpractices/pull/665)
+      - translated README.korean.md 4.1 part (https://github.com/goldbergyoni/nodebestpractices/pull/423)
+      - translated missing parts of README and fixed typo (https://github.com/goldbergyoni/nodebestpractices/pull/368)
+      - [Chinese translation]Readme Chinese translation part one (https://github.com/goldbergyoni/nodebestpractices/pull/96)
+------------------------------------------------------------
+58. Checking repo 'rust-lang/rust' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+59. Checking repo 'langchain-ai/langchain' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+60. Checking repo 'angular/angular' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+Finished this batch.
+
+Processing repos 61 through 70 (of 263)...
+61. Checking repo 'mui/material-ui' for PRs containing 'translate readme'...
+   Found 3 matching PR(s):
+      - README Translation (https://github.com/mui/material-ui/pull/44190)
+      - [docs] Add note to docs README regarding translations (https://github.com/mui/material-ui/pull/15020)
+      - [docs] Add a translation badge to readme, and update URLs (https://github.com/mui/material-ui/pull/13128)
+------------------------------------------------------------
+62. Checking repo 'godotengine/godot' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+63. Checking repo 'ant-design/ant-design' for PRs containing 'translate readme'...
+   Found 4 matching PR(s):
+      - docs: add Russian translation for README.md (https://github.com/ant-design/ant-design/pull/44363)
+      - docs: add Ukrainian translation for README.md (https://github.com/ant-design/ant-design/pull/30737)
+      - feat: add Ukrainian translation for README.md (https://github.com/ant-design/ant-design/pull/30735)
+      - Added translation for README.md (https://github.com/ant-design/ant-design/pull/70)
+------------------------------------------------------------
+64. Checking repo 'ryanmcdermott/clean-code-javascript' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+65. Checking repo 'iluwatar/java-design-patterns' for PRs containing 'translate readme'...
+   Found 24 matching PR(s):
+      - docs: added arabic translations to README files (#2273) (https://github.com/iluwatar/java-design-patterns/pull/3107)
+      -  Italian translation for readme (https://github.com/iluwatar/java-design-patterns/pull/3024)
+      - docs: Translation of api-gateway readme to Spanish, closes #2472 (https://github.com/iluwatar/java-design-patterns/pull/2474)
+      - Translate the ambassador readme to Spanish (#2453) (https://github.com/iluwatar/java-design-patterns/pull/2456)
+      - feat: translate event-sourcing readme file into Korean (https://github.com/iluwatar/java-design-patterns/pull/2439)
+      - docs: Translate readme file into Korean (https://github.com/iluwatar/java-design-patterns/pull/2429)
+      - Translate:  Translate the aggregator-microservices readme to Spanish [Issue #2335 (Task of issue #2277 )] (https://github.com/iluwatar/java-design-patterns/pull/2338)
+      - Translate README.md to Italian (#2314) (https://github.com/iluwatar/java-design-patterns/pull/2322)
+      - Closes iluwatar#2162 Translate iterator pattern readme to Korean (https://github.com/iluwatar/java-design-patterns/pull/2173)
+      - Closes iluwatar#2161 Translate builder pattern readme to Korean (https://github.com/iluwatar/java-design-patterns/pull/2172)
+      - Closes iluwatar#2160 Translate proxy pattern readme to Korean (https://github.com/iluwatar/java-design-patterns/pull/2171)
+      - Closes #2124 Translate the adapter readme to Spanish (https://github.com/iluwatar/java-design-patterns/pull/2126)
+      - Translate the builder readme to Portuguese (https://github.com/iluwatar/java-design-patterns/pull/2122)
+      - Translate the abstract factory readme to Portuguese (https://github.com/iluwatar/java-design-patterns/pull/2117)
+      - Closes iluwatar#2082 Translate template-method pattern readme to Korean (https://github.com/iluwatar/java-design-patterns/pull/2109)
+      - Closes #2089 Translate the acyclic-visitor readme to Spanish (https://github.com/iluwatar/java-design-patterns/pull/2090)
+      - I translate to Hindi the README.md file and add it as new file under /localization/hi/ folder (https://github.com/iluwatar/java-design-patterns/pull/2086)
+      - Translated "active objects" readme.md file into Spanish #2077 (https://github.com/iluwatar/java-design-patterns/pull/2081)
+      - Closes #2077 Translate the active-object readme to Spanish (https://github.com/iluwatar/java-design-patterns/pull/2078)
+      - Closes #2066 Translate the abstract-factory readme to Spanish (https://github.com/iluwatar/java-design-patterns/pull/2072)
+      - I translate to greek the README.md file and add it as new file under /localization/el/ folder (https://github.com/iluwatar/java-design-patterns/pull/2060)
+      - Closes #2045 Translate abstract-document readme to Spanish (https://github.com/iluwatar/java-design-patterns/pull/2046)
+      - Translate some of the README docs into Chinese (https://github.com/iluwatar/java-design-patterns/pull/1744)
+      - README.md translated into Korean (https://github.com/iluwatar/java-design-patterns/pull/1582)
+------------------------------------------------------------
+66. Checking repo 'fatedier/frp' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+67. Checking repo 'PanJiaChen/vue-element-admin' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+68. Checking repo 'deepseek-ai/DeepSeek-V3' for PRs containing 'translate readme'...
+   Found 2 matching PR(s):
+      - Turkish Translation: README & README_WEIGHTS (https://github.com/deepseek-ai/DeepSeek-V3/pull/687)
+      - Add Turkish Translation for README and README_WEIGHTS  (https://github.com/deepseek-ai/DeepSeek-V3/pull/641)
+------------------------------------------------------------
+69. Checking repo 'pytorch/pytorch' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+70. Checking repo 'microsoft/Web-Dev-For-Beginners' for PRs containing 'translate readme'...
+   Found 58 matching PR(s):
+      - Readme turkish translation (https://github.com/microsoft/Web-Dev-For-Beginners/pull/1306)
+      - add turkish translation for lecture 1 README (https://github.com/microsoft/Web-Dev-For-Beginners/pull/1305)
+      - Translation of main README into Spanish (https://github.com/microsoft/Web-Dev-For-Beginners/pull/1271)
+      - Translation: add README pt-br translation (https://github.com/microsoft/Web-Dev-For-Beginners/pull/1199)
+      - Hebrew translation for README.he.md (https://github.com/microsoft/Web-Dev-For-Beginners/pull/1126)
+      - 4-typing-game/translations/README.tr.md file translated into Turkish (https://github.com/microsoft/Web-Dev-For-Beginners/pull/1123)
+      - Translate the README.md into German (https://github.com/microsoft/Web-Dev-For-Beginners/pull/1113)
+      - Added README translation for Assamese (https://github.com/microsoft/Web-Dev-For-Beginners/pull/1074)
+      - Update README translation of Portuguese Brazil (https://github.com/microsoft/Web-Dev-For-Beginners/pull/952)
+      - turkish translation of main README.md (https://github.com/microsoft/Web-Dev-For-Beginners/pull/949)
+      - README and for-teachers: German translation (https://github.com/microsoft/Web-Dev-For-Beginners/pull/933)
+      - Added README Translation in Thai (th) (https://github.com/microsoft/Web-Dev-For-Beginners/pull/927)
+      - added spanish translations for 2-functions-methods readme (https://github.com/microsoft/Web-Dev-For-Beginners/pull/864)
+      -  Fix link translation (FR) for README  (https://github.com/microsoft/Web-Dev-For-Beginners/pull/858)
+      - Add README translation (pt_BR) for getting-started-lessons (https://github.com/microsoft/Web-Dev-For-Beginners/pull/846)
+      - Add README translation (pt_BR) for getting-started-lessons (https://github.com/microsoft/Web-Dev-For-Beginners/pull/845)
+      - Marathi translation (README) (https://github.com/microsoft/Web-Dev-For-Beginners/pull/805)
+      - Translation to RUSSIAN 3-terrarium README.md (https://github.com/microsoft/Web-Dev-For-Beginners/pull/792)
+      - Add README translation (ES) for getting-started-lessons (https://github.com/microsoft/Web-Dev-For-Beginners/pull/779)
+      - Update translation readme.id.md in section 1-getting-started-lessons (https://github.com/microsoft/Web-Dev-For-Beginners/pull/759)
+      - Swedish translation for lession 1 README (https://github.com/microsoft/Web-Dev-For-Beginners/pull/749)
+      - Swedish translation for README & for-teachers (https://github.com/microsoft/Web-Dev-For-Beginners/pull/748)
+      - Translated README.md and for-teachers.md to ta[Tamil] (https://github.com/microsoft/Web-Dev-For-Beginners/pull/628)
+      - Suggest french translation refactor for Base readme  (https://github.com/microsoft/Web-Dev-For-Beginners/pull/602)
+      - [fr] french translation for 7-4-readme.md file (https://github.com/microsoft/Web-Dev-For-Beginners/pull/601)
+      - [fr] french translation for 7-3-readme.md file (https://github.com/microsoft/Web-Dev-For-Beginners/pull/600)
+      - RU: Translated 2-js-basics base README (https://github.com/microsoft/Web-Dev-For-Beginners/pull/597)
+      - [fr] french translation for 6-4-readme.md file (https://github.com/microsoft/Web-Dev-For-Beginners/pull/590)
+      - Translated base README.md to Russian (https://github.com/microsoft/Web-Dev-For-Beginners/pull/588)
+      - [fr] french translation for 6-3-readme.md file (https://github.com/microsoft/Web-Dev-For-Beginners/pull/582)
+      - Add lesson-template/translations/README.es.md (https://github.com/microsoft/Web-Dev-For-Beginners/pull/562)
+      - add french translation for 6-2-readme (https://github.com/microsoft/Web-Dev-For-Beginners/pull/560)
+      - feat: translate readme and for-teachers from english to telugu (https://github.com/microsoft/Web-Dev-For-Beginners/pull/557)
+      - [fr] 5-3-readme french translation (https://github.com/microsoft/Web-Dev-For-Beginners/pull/550)
+      - [fr] french translate of 5-2-readme (https://github.com/microsoft/Web-Dev-For-Beginners/pull/547)
+      - [fr] french translate of  4-typing-game-readme (https://github.com/microsoft/Web-Dev-For-Beginners/pull/541)
+      - Added Bangla translation for base README (https://github.com/microsoft/Web-Dev-For-Beginners/pull/527)
+      - [fr] Add fench translation file for 2-4-readme (https://github.com/microsoft/Web-Dev-For-Beginners/pull/526)
+      - [fr] Suggest translation for 7-solution-readme (https://github.com/microsoft/Web-Dev-For-Beginners/pull/521)
+      - Translate README, for-teachers Malayalam & Open in Visual Studio Code Badge (https://github.com/microsoft/Web-Dev-For-Beginners/pull/510)
+      - [RU] Add translation to Russian for README in 1-intro-to-programming-languages, 2-github-basics (https://github.com/microsoft/Web-Dev-For-Beginners/pull/499)
+      - translate to pt README about browsers (https://github.com/microsoft/Web-Dev-For-Beginners/pull/497)
+      - Translate pt terrarium base solution readme (https://github.com/microsoft/Web-Dev-For-Beginners/pull/495)
+      - Add Ukrainian translation for 2-js-basics/README.md (https://github.com/microsoft/Web-Dev-For-Beginners/pull/492)
+      - Suggest french translation for 7-2-forms_readme (https://github.com/microsoft/Web-Dev-For-Beginners/pull/485)
+      - translate intro to DOM and closures README (https://github.com/microsoft/Web-Dev-For-Beginners/pull/482)
+      - Portuguese translation of Terrarium (base README and 1-intro-to-html) (https://github.com/microsoft/Web-Dev-For-Beginners/pull/476)
+      - Translate README.md to Filipino Language (https://github.com/microsoft/Web-Dev-For-Beginners/pull/470)
+      - Added french translation for README.fr.md  (https://github.com/microsoft/Web-Dev-For-Beginners/pull/465)
+      - [fr] Suggest french translation for 7-1-template-route readme (https://github.com/microsoft/Web-Dev-For-Beginners/pull/462)
+      - Add a french translation for 7-bank-project README #326 (https://github.com/microsoft/Web-Dev-For-Beginners/pull/458)
+      - Add french translation for Intro to HTML README (https://github.com/microsoft/Web-Dev-For-Beginners/pull/450)
+      - Portuguese translation of root README (https://github.com/microsoft/Web-Dev-For-Beginners/pull/436)
+      - Translates all base README of lessons to 'el' (https://github.com/microsoft/Web-Dev-For-Beginners/pull/368)
+      - Translates base README and for-teachers in Greek (https://github.com/microsoft/Web-Dev-For-Beginners/pull/366)
+      - [fr] add translation for 4-typing-game assignment, 5-browser-extension base README (https://github.com/microsoft/Web-Dev-For-Beginners/pull/358)
+      - Translation of section 2 & 2.1 README.md into French (https://github.com/microsoft/Web-Dev-For-Beginners/pull/343)
+      - Create German Readme.md translations (https://github.com/microsoft/Web-Dev-For-Beginners/pull/77)
+------------------------------------------------------------
+Finished this batch.
+
+Processing repos 71 through 80 (of 263)...
+71. Checking repo 'rustdesk/rustdesk' for PRs containing 'translate readme'...
+   Found 12 matching PR(s):
+      - 🌟🇻🇳 Update Vietnamese Translation for RustDesk README! 🇻🇳🌟 (https://github.com/rustdesk/rustdesk/pull/7655)
+      - README.md Translate Turkish (https://github.com/rustdesk/rustdesk/pull/5501)
+      - add translate ja readme (https://github.com/rustdesk/rustdesk/pull/3197)
+      - Grammatical errors in README Finnish translation fixed (https://github.com/rustdesk/rustdesk/pull/1165)
+      - Translation of README.md into Persian (https://github.com/rustdesk/rustdesk/pull/662)
+      - Add Czech translation of README (https://github.com/rustdesk/rustdesk/pull/630)
+      - README translation (https://github.com/rustdesk/rustdesk/pull/402)
+      - Add Dutch translation for README (https://github.com/rustdesk/rustdesk/pull/326)
+      - README translated to Japanese (README-JP.md)  (https://github.com/rustdesk/rustdesk/pull/320)
+      - README translated to MALAYALAM (README-ML.md) (https://github.com/rustdesk/rustdesk/pull/315)
+      - Better translation pl readme (https://github.com/rustdesk/rustdesk/pull/143)
+      - Create README-FR.md, French translation (https://github.com/rustdesk/rustdesk/pull/101)
+------------------------------------------------------------
+72. Checking repo 'django/django' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+73. Checking repo 'bitcoin/bitcoin' for PRs containing 'translate readme'...
+   Found 2 matching PR(s):
+      - Add translation mailing list to README.md (https://github.com/bitcoin/bitcoin/pull/4477)
+      - doc: add note about translations to README.md (https://github.com/bitcoin/bitcoin/pull/4041)
+------------------------------------------------------------
+74. Checking repo 'animate-css/animate.css' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+75. Checking repo 'ChatGPTNextWeb/NextChat' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+76. Checking repo 'deepseek-ai/DeepSeek-R1' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+77. Checking repo 'opencv/opencv' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+78. Checking repo 'laravel/laravel' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+79. Checking repo 'macrozheng/mall' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+80. Checking repo 'tensorflow/models' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+Finished this batch.
+
+Processing repos 81 through 90 (of 263)...
+81. Checking repo 'doocs/advanced-java' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+82. Checking repo 'home-assistant/core' for PRs containing 'translate readme'...
+   Found 1 matching PR(s):
+      - Add translation readmes (https://github.com/home-assistant/core/pull/72718)
+------------------------------------------------------------
+83. Checking repo 'spring-projects/spring-boot' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+84. Checking repo 'MisterBooo/LeetCodeAnimation' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+85. Checking repo '2dust/v2rayN' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+86. Checking repo 'ggml-org/llama.cpp' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+87. Checking repo 'FortAwesome/Font-Awesome' for PRs containing 'translate readme'...
+   Found 1 matching PR(s):
+      - Add the chinese readme translation (https://github.com/FortAwesome/Font-Awesome/pull/7360)
+------------------------------------------------------------
+88. Checking repo 'langgenius/dify' for PRs containing 'translate readme'...
+   Found 2 matching PR(s):
+      - Feat/farsi translation for readme (https://github.com/langgenius/dify/pull/8487)
+      - Feat/farsi translation for readme (https://github.com/langgenius/dify/pull/8468)
+------------------------------------------------------------
+89. Checking repo 'elastic/elasticsearch' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+90. Checking repo 'anuraghazra/github-readme-stats' for PRs containing 'translate readme'...
+   Found 16 matching PR(s):
+      - Fixes to the French translation of the README (https://github.com/anuraghazra/github-readme-stats/pull/3309)
+      - Synchonize cache seconds min value inside docs translations with main readme (https://github.com/anuraghazra/github-readme-stats/pull/2616)
+      - Translated README.md to Bulgarian (https://github.com/anuraghazra/github-readme-stats/pull/2324)
+      - Polish translation of README (https://github.com/anuraghazra/github-readme-stats/pull/2239)
+      - Poish translation of README (https://github.com/anuraghazra/github-readme-stats/pull/2238)
+      - Polish translation of README (https://github.com/anuraghazra/github-readme-stats/pull/2237)
+      - docs: fix some translate mistakes in readme_cn.md (https://github.com/anuraghazra/github-readme-stats/pull/1811)
+      - readme_cn.md: translate new contents in the homepage readme (https://github.com/anuraghazra/github-readme-stats/pull/1032)
+      - docs(translation): Added Russian Language Readme File (https://github.com/anuraghazra/github-readme-stats/pull/796)
+      - Fix readme_pt-BR.md... (All Translations) (https://github.com/anuraghazra/github-readme-stats/pull/770)
+      - docs(translation): update readme_fr.md (https://github.com/anuraghazra/github-readme-stats/pull/412)
+      - readme: updated German translation (https://github.com/anuraghazra/github-readme-stats/pull/382)
+      - readme : add French Translations (https://github.com/anuraghazra/github-readme-stats/pull/372)
+      - correct all links in the translated readme (https://github.com/anuraghazra/github-readme-stats/pull/362)
+      - Add german translation of Readme (https://github.com/anuraghazra/github-readme-stats/pull/171)
+      - Update & Improvements on Existing Simplified Chinese Translation of README (https://github.com/anuraghazra/github-readme-stats/pull/109)
+------------------------------------------------------------
+Finished this batch.
+
+Processing repos 91 through 100 (of 263)...
+91. Checking repo 'microsoft/generative-ai-for-beginners' for PRs containing 'translate readme'...
+   Found 11 matching PR(s):
+      - Fix broken image path in translations/ko/README.md (https://github.com/microsoft/generative-ai-for-beginners/pull/691)
+      - Update README CN translation from version 1 to version 3 (https://github.com/microsoft/generative-ai-for-beginners/pull/640)
+      - docs: update 00-course-setup/translations/cn/README.md (https://github.com/microsoft/generative-ai-for-beginners/pull/421)
+      - Update README.md content table for spanish translation (https://github.com/microsoft/generative-ai-for-beginners/pull/392)
+      - Translate README.md to Chinese Traditional Version (https://github.com/microsoft/generative-ai-for-beginners/pull/361)
+      - Adding Bangla (Bangladesh) Translation for Main Readme File (https://github.com/microsoft/generative-ai-for-beginners/pull/357)
+      - Adding Bangla (Bangladesh) Translation For Main Readme (https://github.com/microsoft/generative-ai-for-beginners/pull/356)
+      - Spanish translation for the main README #274 (https://github.com/microsoft/generative-ai-for-beginners/pull/287)
+      - Fix typo in translations/cn/README.md (https://github.com/microsoft/generative-ai-for-beginners/pull/270)
+      - spanish translation: main readme.md (https://github.com/microsoft/generative-ai-for-beginners/pull/150)
+      - Fix typo in 00-course-setup/translations/cn/README.md (https://github.com/microsoft/generative-ai-for-beginners/pull/100)
+------------------------------------------------------------
+92. Checking repo 'microsoft/ML-For-Beginners' for PRs containing 'translate readme'...
+   Found 39 matching PR(s):
+      - feat(spanish): Translate file `7-TimeSeries/2-ARIMA/README.md` (https://github.com/microsoft/ML-For-Beginners/pull/620)
+      -  [Hi-Hindi] Translation for 5.Clustering README (https://github.com/microsoft/ML-For-Beginners/pull/593)
+      - [Hi-Hindi] Translation for Regression base README (https://github.com/microsoft/ML-For-Beginners/pull/564)
+      - (spanish) 6-NLP/3-Translation-Sentiment/README.md (https://github.com/microsoft/ML-For-Beginners/pull/550)
+      - (spanish) - 3-Web-App/1-Web-App/translations/README.md (https://github.com/microsoft/ML-For-Beginners/pull/509)
+      - Translations(Spanish):5-clustering/readme.md (https://github.com/microsoft/ML-For-Beginners/pull/472)
+      - Add the french translation of the readme for 1-3 Fairness (https://github.com/microsoft/ML-For-Beginners/pull/431)
+      - [Translations] - spanish: 9-Real-World/README.md (https://github.com/microsoft/ML-For-Beginners/pull/418)
+      - Translated classification README to spanish (https://github.com/microsoft/ML-For-Beginners/pull/417)
+      - [Translations] - spanish: 1-Introduction/3-fairness/translations/README.es.md (https://github.com/microsoft/ML-For-Beginners/pull/413)
+      - [HI-Hindi] Translation for TimeSeries base README (https://github.com/microsoft/ML-For-Beginners/pull/412)
+      - [HI-Hindi] Translation for Real-World base README (https://github.com/microsoft/ML-For-Beginners/pull/410)
+      - [Hi-Hindi] Translation for Web App base README (https://github.com/microsoft/ML-For-Beginners/pull/409)
+      - Add Malay readme translation (https://github.com/microsoft/ML-For-Beginners/pull/408)
+      - [HI-Hindi] Translation for Classification base README (https://github.com/microsoft/ML-For-Beginners/pull/406)
+      - [Hi-Hindi] Translation for Introduction base README (https://github.com/microsoft/ML-For-Beginners/pull/402)
+      - Add PT-BR Translation: Readme, Quizzes and Introduction (https://github.com/microsoft/ML-For-Beginners/pull/377)
+      - 2-Regression/1-Tools/translations/README.es.md (https://github.com/microsoft/ML-For-Beginners/pull/355)
+      - Italian translation: Chapter 9, quizzes and index.js, main README.md (https://github.com/microsoft/ML-For-Beginners/pull/323)
+      - Create README.zh-cn.md and Translated a few things (https://github.com/microsoft/ML-For-Beginners/pull/320)
+      - Translate 1.1-README to spanish (https://github.com/microsoft/ML-For-Beginners/pull/299)
+      - 2-Regression/translations/README.es.md (https://github.com/microsoft/ML-For-Beginners/pull/292)
+      - 1-Introduction/2-history-of-ML/translations/README.es.md (https://github.com/microsoft/ML-For-Beginners/pull/279)
+      - 1-Introduction/2-history-of-ML/translations/README.es.md (https://github.com/microsoft/ML-For-Beginners/pull/278)
+      - 1-Introduction/4-techniques-of-ML/translations/README.es.md (https://github.com/microsoft/ML-For-Beginners/pull/257)
+      - Add Turkish translation of the base README.md file (https://github.com/microsoft/ML-For-Beginners/pull/198)
+      - Translated 8-Reinforcement intro README.md into Simplified Chinese (https://github.com/microsoft/ML-For-Beginners/pull/190)
+      - translated /4-Classification/1-Introduction/README.md into Chinese (https://github.com/microsoft/ML-For-Beginners/pull/187)
+      - translated README.md to Simplified Chinese (https://github.com/microsoft/ML-For-Beginners/pull/180)
+      - translated 2-Regression/Readme.md into simplified Chinese (https://github.com/microsoft/ML-For-Beginners/pull/174)
+      - translated 2-Regression Readme.md into simplified Chinese (https://github.com/microsoft/ML-For-Beginners/pull/173)
+      - propose Regression french translation readme (https://github.com/microsoft/ML-For-Beginners/pull/172)
+      - translate 6.1 README to Simplified Chinese (https://github.com/microsoft/ML-For-Beginners/pull/171)
+      - propose french translation of Introduction base README (https://github.com/microsoft/ML-For-Beginners/pull/167)
+      - translate 1.3 fairness readme.md to Japanese (https://github.com/microsoft/ML-For-Beginners/pull/91)
+      - Translated README files to all the topics to Russian (https://github.com/microsoft/ML-For-Beginners/pull/87)
+      - Translate README.md to Korean (https://github.com/microsoft/ML-For-Beginners/pull/83)
+      - translated 1.2 history of ML README.md to Japanese (https://github.com/microsoft/ML-For-Beginners/pull/82)
+      - Translated 1.1 readme.md, 1-introduction readme.md to Japanese (https://github.com/microsoft/ML-For-Beginners/pull/81)
+------------------------------------------------------------
+93. Checking repo 'fighting41love/funNLP' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+94. Checking repo 'CompVis/stable-diffusion' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+95. Checking repo 'moby/moby' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+96. Checking repo 'pallets/flask' for PRs containing 'translate readme'...
+   Found 1 matching PR(s):
+      - Hi, I just translate readme.rst to Korean (https://github.com/pallets/flask/pull/2775)
+------------------------------------------------------------
+97. Checking repo 'bregman-arie/devops-exercises' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+98. Checking repo 'hakimel/reveal.js' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+99. Checking repo 'swiftlang/swift' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+100. Checking repo 'redis/redis' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+Finished this batch.
+
+Processing repos 101 through 110 (of 263)...
+101. Checking repo 'josephmisiti/awesome-machine-learning' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+102. Checking repo 'protocolbuffers/protobuf' for PRs containing 'translate readme'...
+   Found 1 matching PR(s):
+      - I've added a Chinese translation to the project readme. (https://github.com/protocolbuffers/protobuf/pull/18070)
+------------------------------------------------------------
+103. Checking repo 'grafana/grafana' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+104. Checking repo 'expressjs/express' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+105. Checking repo 'd2l-ai/d2l-zh' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+106. Checking repo 'python/cpython' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+107. Checking repo 'chartjs/Chart.js' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+108. Checking repo 'apache/superset' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+109. Checking repo 'ansible/ansible' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+110. Checking repo 'kdn251/interviews' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+Finished this batch.
+
+Processing repos 111 through 120 (of 263)...
+111. Checking repo 'xtekky/gpt4free' for PRs containing 'translate readme'...
+   Found 2 matching PR(s):
+      - Change uses of whitelist to allowlist in translate_readme.py. (https://github.com/xtekky/gpt4free/pull/1634)
+      - Webdriver module, translate readme, support stream in create_async (https://github.com/xtekky/gpt4free/pull/1274)
+------------------------------------------------------------
+112. Checking repo 'swisskyrepo/PayloadsAllTheThings' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+113. Checking repo 'ocornut/imgui' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+114. Checking repo 'twitter/the-algorithm' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+115. Checking repo 'n8n-io/n8n' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+116. Checking repo 'keras-team/keras' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+117. Checking repo 'awesomedata/awesome-public-datasets' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+118. Checking repo 'apache/echarts' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+119. Checking repo 'socketio/socket.io' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+120. Checking repo 'scikit-learn/scikit-learn' for PRs containing 'translate readme'...
+   Found 1 matching PR(s):
+      - Added Spanish and Polish README translation, made consistency fix in main README.rst (https://github.com/scikit-learn/scikit-learn/pull/28945)
+------------------------------------------------------------
+Finished this batch.
+
+Processing repos 121 through 130 (of 263)...
+121. Checking repo 'reduxjs/redux' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+122. Checking repo 'danielmiessler/SecLists' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+123. Checking repo 'TheAlgorithms/Java' for PRs containing 'translate readme'...
+   Found 3 matching PR(s):
+      - Translated README.md to Spanish (https://github.com/TheAlgorithms/Java/pull/2567)
+      - translate README-ko + found wrong word in README (https://github.com/TheAlgorithms/Java/pull/657)
+      - Translate README to Korean Language (https://github.com/TheAlgorithms/Java/pull/654)
+------------------------------------------------------------
+124. Checking repo 'atom/atom' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+125. Checking repo 'xingshaocheng/architect-awesome' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+126. Checking repo 'h5bp/Front-end-Developer-Interview-Questions' for PRs containing 'translate readme'...
+   Found 2 matching PR(s):
+      - Update readme.md in indonesian translation (https://github.com/h5bp/Front-end-Developer-Interview-Questions/pull/497)
+      - Added Ukrainian translation Readme (https://github.com/h5bp/Front-end-Developer-Interview-Questions/pull/372)
+------------------------------------------------------------
+127. Checking repo 'bradtraversy/design-resources-for-developers' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+128. Checking repo 'adam-p/markdown-here' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+129. Checking repo 'jquery/jquery' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+130. Checking repo 'angular/angular.js' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+Finished this batch.
+
+Processing repos 131 through 140 (of 263)...
+131. Checking repo 'shadowsocks/shadowsocks-windows' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+132. Checking repo 'spring-projects/spring-framework' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+133. Checking repo 'h5bp/html5-boilerplate' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+134. Checking repo 'rust-lang/rustlings' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+135. Checking repo 'rails/rails' for PRs containing 'translate readme'...
+   Found 1 matching PR(s):
+      - I translate the README file in Greek language (https://github.com/rails/rails/pull/22694)
+------------------------------------------------------------
+136. Checking repo 'lobehub/lobe-chat' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+137. Checking repo 'gatsbyjs/gatsby' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+138. Checking repo 'scutan90/DeepLearning-500-questions' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+139. Checking repo 'PlexPt/awesome-chatgpt-prompts-zh' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+140. Checking repo 'scrapy/scrapy' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+Finished this batch.
+
+Processing repos 141 through 150 (of 263)...
+141. Checking repo 'ageitgey/face_recognition' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+142. Checking repo 'ElemeFE/element' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+143. Checking repo 'remix-run/react-router' for PRs containing 'translate readme'...
+   Found 1 matching PR(s):
+      - update: translate packages/react-router-redux/README.md &  packages/react-router-redux/README-en.md  (https://github.com/remix-run/react-router/pull/5993)
+------------------------------------------------------------
+144. Checking repo 'youngyangyang04/leetcode-master' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+145. Checking repo 'git/git' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+146. Checking repo 'deepfakes/faceswap' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+147. Checking repo 'necolas/normalize.css' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+148. Checking repo 'ultralytics/yolov5' for PRs containing 'translate readme'...
+   Found 2 matching PR(s):
+      - Update translate-readme.yml (https://github.com/ultralytics/yolov5/pull/10725)
+      - Automatic README translation to Simplified Chinese (https://github.com/ultralytics/yolov5/pull/10445)
+------------------------------------------------------------
+149. Checking repo 'wasabeef/awesome-android-ui' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+150. Checking repo 'ionic-team/ionic-framework' for PRs containing 'translate readme'...
+   Found 1 matching PR(s):
+      - Add the chinese readme translation (https://github.com/ionic-team/ionic-framework/pull/4303)
+------------------------------------------------------------
+Finished this batch.
+
+Processing repos 151 through 160 (of 263)...
+151. Checking repo 'topjohnwu/Magisk' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+152. Checking repo 'google/guava' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+153. Checking repo 'mozilla/pdf.js' for PRs containing 'translate readme'...
+   Found 2 matching PR(s):
+      - Update translations/packages and use HTTPS for links in `README.md` (https://github.com/mozilla/pdf.js/pull/10054)
+      - Update the localization README to indicate that the translations are imported from the Nightly channel (https://github.com/mozilla/pdf.js/pull/9860)
+------------------------------------------------------------
+154. Checking repo 'jekyll/jekyll' for PRs containing 'translate readme'...
+   Found 1 matching PR(s):
+      - Translated of README.markdown and CONTRIBUTING.markdown into Japanese. (https://github.com/jekyll/jekyll/pull/2081)
+------------------------------------------------------------
+155. Checking repo 'DefinitelyTyped/DefinitelyTyped' for PRs containing 'translate readme'...
+   Found 10 matching PR(s):
+      - docs(readme.es): translating non-translated content (https://github.com/DefinitelyTyped/DefinitelyTyped/pull/65848)
+      - docs(readme): improving spanish translations (https://github.com/DefinitelyTyped/DefinitelyTyped/pull/65842)
+      - [README]: Improve Chinese translation (https://github.com/DefinitelyTyped/DefinitelyTyped/pull/64116)
+      - [README]Translation updated with missing sections, spotted typo & example code snippets mismatch (https://github.com/DefinitelyTyped/DefinitelyTyped/pull/62078)
+      - [README] Translate heading references (https://github.com/DefinitelyTyped/DefinitelyTyped/pull/55622)
+      - [README] Add Japanese-translated version (https://github.com/DefinitelyTyped/DefinitelyTyped/pull/49779)
+      - Remove the translations for readme (https://github.com/DefinitelyTyped/DefinitelyTyped/pull/49776)
+      - [README] Translate heading references (https://github.com/DefinitelyTyped/DefinitelyTyped/pull/49667)
+      - [README] Update translations' tables of contents (https://github.com/DefinitelyTyped/DefinitelyTyped/pull/49614)
+      - Partial Translation of README.md to Filipino (https://github.com/DefinitelyTyped/DefinitelyTyped/pull/24111)
+------------------------------------------------------------
+156. Checking repo 'TryGhost/Ghost' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+157. Checking repo 'ethereum/go-ethereum' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+158. Checking repo 'FFmpeg/FFmpeg' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+159. Checking repo 'firstcontributions/first-contributions' for PRs containing 'translate readme'...
+   Found 60 matching PR(s):
+      - Update bulgarian readme translation (https://github.com/firstcontributions/first-contributions/pull/94694)
+      - adding a translation readme in language TAMIL (https://github.com/firstcontributions/first-contributions/pull/94673)
+      - These are the corrections in the  Swahili grammar on the README.kws.md file in the /docs/translations directory  (https://github.com/firstcontributions/first-contributions/pull/92940)
+      - docs(translations): fix typos and inconsistencies in Indonesian README (https://github.com/firstcontributions/first-contributions/pull/92459)
+      - Translate readme assamese (https://github.com/firstcontributions/first-contributions/pull/92083)
+      - Improved the grammatical mistakes in the Hindi translation of readme file (https://github.com/firstcontributions/first-contributions/pull/91719)
+      - 1. Add Kai to Contributors list, 2. Improve Malay translation for README (https://github.com/firstcontributions/first-contributions/pull/91484)
+      - fix: Correct typos and improve translations in README (Amharic) (https://github.com/firstcontributions/first-contributions/pull/86216)
+      - updated urdu translation for README (https://github.com/firstcontributions/first-contributions/pull/86132)
+      - Add readme translation mg (https://github.com/firstcontributions/first-contributions/pull/85688)
+      - Update German translation in README.de.md (https://github.com/firstcontributions/first-contributions/pull/83400)
+      - Translation: Urdu Readme Image Fix (https://github.com/firstcontributions/first-contributions/pull/83146)
+      - Add Salman and fixed malay translation of Readme file (https://github.com/firstcontributions/first-contributions/pull/81212)
+      - Translated the README.md to Nigerian pidgin (https://github.com/firstcontributions/first-contributions/pull/77789)
+      - Made few changes to hindi translations readme (https://github.com/firstcontributions/first-contributions/pull/77401)
+      - Readme Translation for Dardja (Algerian Arabic). (https://github.com/firstcontributions/first-contributions/pull/72919)
+      - Readme Translation for Dardja (Algerian Arabic). (https://github.com/firstcontributions/first-contributions/pull/72835)
+      - Improved and Updated Telugu translation of README file (https://github.com/firstcontributions/first-contributions/pull/70718)
+      - miss translation fixes in the 'README.pt_br.md', and added Vytor Renn… (https://github.com/firstcontributions/first-contributions/pull/69255)
+      - Contribution to language translation of Readme files (https://github.com/firstcontributions/first-contributions/pull/67154)
+      - added german translation to title in README.de.md - Issue nr. #66017 (https://github.com/firstcontributions/first-contributions/pull/66423)
+      - translate title of german README (https://github.com/firstcontributions/first-contributions/pull/66330)
+      - Updated the German translation of README's title "First Contributions… (https://github.com/firstcontributions/first-contributions/pull/66206)
+      - Add German translation for joining the slack team in README.de.md (https://github.com/firstcontributions/first-contributions/pull/64515)
+      - Add CDA to Contributors list & Update readme translation (https://github.com/firstcontributions/first-contributions/pull/60658)
+      - Add croatian readme translation (https://github.com/firstcontributions/first-contributions/pull/60107)
+      - Update translations for the readme in pt_br (https://github.com/firstcontributions/first-contributions/pull/60092)
+      - Add Uzbek translation of readme (https://github.com/firstcontributions/first-contributions/pull/60030)
+      - Paulpessoa translation readme (https://github.com/firstcontributions/first-contributions/pull/59669)
+      - Added slovak translation of readme, added myself to contributors, fix… (https://github.com/firstcontributions/first-contributions/pull/57367)
+      - Updated translations/README.hi.md file (https://github.com/firstcontributions/first-contributions/pull/56779)
+      - Improved translations on translations/README.tl.md (https://github.com/firstcontributions/first-contributions/pull/55981)
+      - use switch command in bengali translation of README (https://github.com/firstcontributions/first-contributions/pull/54258)
+      - Add Armenian readme translation (https://github.com/firstcontributions/first-contributions/pull/53677)
+      - Add ferdroid8080 and some minor changes to the spanish translation of readme (https://github.com/firstcontributions/first-contributions/pull/52066)
+      - Polish translation of README file - suggested changes (https://github.com/firstcontributions/first-contributions/pull/50762)
+      - Translated the Read Me file to Yoruba Language Version with README.yo… (https://github.com/firstcontributions/first-contributions/pull/49403)
+      - Update translations/README.bn.md (https://github.com/firstcontributions/first-contributions/pull/47649)
+      - Add Dasith Rathnasinghe to Contributors list and Sinhala translation for readme (https://github.com/firstcontributions/first-contributions/pull/45415)
+      - Edited and Added some stuff to the Arabic README translation (https://github.com/firstcontributions/first-contributions/pull/45359)
+      - Updated ukrainian translation - README.ua.md (https://github.com/firstcontributions/first-contributions/pull/42165)
+      - Modified Telugu translation of README.te.md (https://github.com/firstcontributions/first-contributions/pull/38783)
+      - fixed GitKraken Logo in README - translations (https://github.com/firstcontributions/first-contributions/pull/36856)
+      - Added README.hr.md translation, edited link in README.md (https://github.com/firstcontributions/first-contributions/pull/36627)
+      - Minor grammar adjustment in README.md PT-BR translation (https://github.com/firstcontributions/first-contributions/pull/35048)
+      - Minor translation corrections on README.ca.md (https://github.com/firstcontributions/first-contributions/pull/34640)
+      - Added a Montenegrin translation of the README.md (https://github.com/firstcontributions/first-contributions/pull/33896)
+      - Translate readme file in hindi  (https://github.com/firstcontributions/first-contributions/pull/32768)
+      - FIX: gui readme links on the bottom of hungarian translation (https://github.com/firstcontributions/first-contributions/pull/32182)
+      - Corrected some basic spelling mistakes in Hindi translation of README (https://github.com/firstcontributions/first-contributions/pull/31869)
+      - Updating README French translation (https://github.com/firstcontributions/first-contributions/pull/31330)
+      - added readme albanian translation and added my name to contributors (https://github.com/firstcontributions/first-contributions/pull/30618)
+      - improvement: korean translation of README.md (https://github.com/firstcontributions/first-contributions/pull/27398)
+      - readme-yoruba translation (https://github.com/firstcontributions/first-contributions/pull/25332)
+      - Add Flags into translations/readme.bn.md (https://github.com/firstcontributions/first-contributions/pull/24923)
+      - Add norwegian translation of README.md (https://github.com/firstcontributions/first-contributions/pull/23819)
+      - Update Japanese README.md Translation (https://github.com/firstcontributions/first-contributions/pull/23144)
+      - Hello! I added README.sr.md file with serbian translation. (https://github.com/firstcontributions/first-contributions/pull/21778)
+      - Vietnamese Translation: Correct Icon for Visual Studio 2017 and add new tools listed in English README.md (https://github.com/firstcontributions/first-contributions/pull/21438)
+      - translate README.sin.md (https://github.com/firstcontributions/first-contributions/pull/20248)
+------------------------------------------------------------
+160. Checking repo 'Avik-Jain/100-Days-Of-ML-Code' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+Finished this batch.
+
+Processing repos 161 through 170 (of 263)...
+161. Checking repo 'karan/Projects' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+162. Checking repo 'android/architecture-samples' for PRs containing 'translate readme'...
+   Found 1 matching PR(s):
+      - Translate README for portuguese Brazil (https://github.com/android/architecture-samples/pull/970)
+------------------------------------------------------------
+163. Checking repo 'pandas-dev/pandas' for PRs containing 'translate readme'...
+   Found 1 matching PR(s):
+      - Korean translation for README.md, README.rst file (https://github.com/pandas-dev/pandas/pull/16681)
+------------------------------------------------------------
+164. Checking repo 'ColorlibHQ/AdminLTE' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+165. Checking repo 'Asabeneh/30-Days-Of-JavaScript' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+166. Checking repo 'jakevdp/PythonDataScienceHandbook' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+167. Checking repo 'aymericdamien/TensorFlow-Examples' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+168. Checking repo 'astaxie/build-web-application-with-golang' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+169. Checking repo 'Homebrew/brew' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+170. Checking repo 'grpc/grpc' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+Finished this batch.
+
+Processing repos 171 through 180 (of 263)...
+171. Checking repo 'kelseyhightower/kubernetes-the-hard-way' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+172. Checking repo 'RocketChat/Rocket.Chat' for PRs containing 'translate readme'...
+   Found 1 matching PR(s):
+      - translate README and add it in Korean. (https://github.com/RocketChat/Rocket.Chat/pull/15713)
+------------------------------------------------------------
+173. Checking repo 'jeecgboot/JeecgBoot' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+174. Checking repo 'bailicangdu/vue2-elm' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+175. Checking repo 'odoo/odoo' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+176. Checking repo 'apache/dubbo' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+177. Checking repo 'apache/spark' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+178. Checking repo 'apachecn/ailearning' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+179. Checking repo 'apache/airflow' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+180. Checking repo 'google/styleguide' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+Finished this batch.
+
+Processing repos 181 through 190 (of 263)...
+181. Checking repo 'eugenp/tutorials' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+182. Checking repo 'dotnet/aspnetcore' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+183. Checking repo 'FlowiseAI/Flowise' for PRs containing 'translate readme'...
+   Found 2 matching PR(s):
+      - Add Korean translation in README.md file (https://github.com/FlowiseAI/Flowise/pull/2257)
+      - Translate the Readme file into Simplified Chinese (https://github.com/FlowiseAI/Flowise/pull/627)
+------------------------------------------------------------
+184. Checking repo 'shadowsocks/shadowsocks-android' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+185. Checking repo 'google/googletest' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+186. Checking repo 'rapid7/metasploit-framework' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+187. Checking repo 'hankcs/HanLP' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+188. Checking repo 'BVLC/caffe' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+189. Checking repo 'netty/netty' for PRs containing 'translate readme'...
+   Found 1 matching PR(s):
+      - The translation process from english to turkish for the README.md file (https://github.com/netty/netty/pull/9155)
+------------------------------------------------------------
+190. Checking repo 'shadowsocks/shadowsocks' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+Finished this batch.
+
+Processing repos 191 through 200 (of 263)...
+191. Checking repo 'Blankj/AndroidUtilCode' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+192. Checking repo 'xkcoding/spring-boot-demo' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+193. Checking repo 'AFNetworking/AFNetworking' for PRs containing 'translate readme'...
+   Found 1 matching PR(s):
+      - CCAutoTag : Chinese README translate (https://github.com/AFNetworking/AFNetworking/pull/4255)
+------------------------------------------------------------
+194. Checking repo 'laravel/framework' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+195. Checking repo 'fengdu78/Coursera-ML-AndrewNg-Notes' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+196. Checking repo 'geekcomputers/Python' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+197. Checking repo 'Chanzhaoyu/chatgpt-web' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+198. Checking repo 'Trinea/android-open-project' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+199. Checking repo 'llvm/llvm-project' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+200. Checking repo 'alibaba/nacos' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+Finished this batch.
+
+Processing repos 201 through 210 (of 263)...
+201. Checking repo 'ityouknow/spring-boot-examples' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+202. Checking repo 'coolsnowwolf/lede' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+203. Checking repo 'Binaryify/NeteaseCloudMusicApi' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+204. Checking repo 'apache/kafka' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+205. Checking repo 'apolloconfig/apollo' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+206. Checking repo 'CSSEGISandData/COVID-19' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+207. Checking repo 'numpy/numpy' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+208. Checking repo 'tastejs/todomvc' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+209. Checking repo 'Ebazhanov/linkedin-skill-assessments-quizzes' for PRs containing 'translate readme'...
+   Found 5 matching PR(s):
+      - rest-api-quiz-ua translated + readme.md links updated (https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/pull/7084)
+      - ReactJS translated + readme links (https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/pull/7078)
+      - Translated Python quiz (ua), added link in Readme (https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/pull/7060)
+      - Translated php-quiz, added link into readme (https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/pull/7043)
+      - OOP ukraine translation + links in readme (https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/pull/7040)
+------------------------------------------------------------
+210. Checking repo 'ageron/handson-ml2' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+Finished this batch.
+
+Processing repos 211 through 220 (of 263)...
+211. Checking repo 'xuxueli/xxl-job' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+212. Checking repo 'wesbos/JavaScript30' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+213. Checking repo 'Pierian-Data/Complete-Python-3-Bootcamp' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+214. Checking repo 'lenve/vhr' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+215. Checking repo 'Homebrew/legacy-homebrew' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+216. Checking repo 'angular/angular-cli' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+217. Checking repo 'openssl/openssl' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+218. Checking repo 'pjreddie/darknet' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+219. Checking repo '233boy/v2ray' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+220. Checking repo 'OpenZeppelin/openzeppelin-contracts' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+Finished this batch.
+
+Processing repos 221 through 230 (of 263)...
+221. Checking repo 'ageron/handson-ml' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+222. Checking repo 'element-plus/element-plus' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+223. Checking repo 'matterport/Mask_RCNN' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+224. Checking repo 'apache/flink' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+225. Checking repo 'dotnet-architecture/eShopOnContainers' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+226. Checking repo 'wesm/pydata-book' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+227. Checking repo 'nvim-lua/kickstart.nvim' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+228. Checking repo 'spmallick/learnopencv' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+229. Checking repo 'openwrt/openwrt' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+230. Checking repo 'apache/rocketmq' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+Finished this batch.
+
+Processing repos 231 through 240 (of 263)...
+231. Checking repo 'Homebrew/homebrew-cask' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+232. Checking repo 'lewagon/dotfiles' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+233. Checking repo 'googlehosts/hosts' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+234. Checking repo 'mybatis/mybatis-3' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+235. Checking repo 'WordPress/WordPress' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+236. Checking repo 'NixOS/nixpkgs' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+237. Checking repo 'qmk/qmk_firmware' for PRs containing 'translate readme'...
+   Found 3 matching PR(s):
+      - [Docs] Update Japanese translation of README.md (https://github.com/qmk/qmk_firmware/pull/8507)
+      - Translate README.md to latin american spanish (https://github.com/qmk/qmk_firmware/pull/7027)
+      - add README translation in portuguese (https://github.com/qmk/qmk_firmware/pull/7016)
+------------------------------------------------------------
+238. Checking repo 'kunal-kushwaha/DSA-Bootcamp-Java' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+239. Checking repo 'github/docs' for PRs containing 'translate readme'...
+   Found 1 matching PR(s):
+      - remove translations/*/content/README.md (https://github.com/github/docs/pull/256)
+------------------------------------------------------------
+240. Checking repo 'fivethirtyeight/data' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+Finished this batch.
+
+Processing repos 241 through 250 (of 263)...
+241. Checking repo 'MarlinFirmware/Marlin' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+242. Checking repo 'esp8266/Arduino' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+243. Checking repo 'jonasschmedtmann/complete-javascript-course' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+244. Checking repo 'helm/charts' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+245. Checking repo 'selfteaching/the-craft-of-selfteaching' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+246. Checking repo 'getlantern/lantern' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+247. Checking repo 'othneildrew/Best-README-Template' for PRs containing 'translate readme'...
+   Found 3 matching PR(s):
+      - Add Chinese Translated README Template (BLANK_README_ZH.md) (https://github.com/othneildrew/Best-README-Template/pull/135)
+      - Add Spanish Translated README Template (BLANK_README_ES.md) (https://github.com/othneildrew/Best-README-Template/pull/130)
+      - Added a README translation workflow (can solve alot of pull requests) (https://github.com/othneildrew/Best-README-Template/pull/53)
+------------------------------------------------------------
+248. Checking repo 'github/opensource.guide' for PRs containing 'translate readme'...
+   Found 1 matching PR(s):
+      - Added a translation for the file README in PT-BR. (https://github.com/github/opensource.guide/pull/2914)
+------------------------------------------------------------
+249. Checking repo 'Azure/azure-quickstart-templates' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+250. Checking repo 'Homebrew/homebrew-core' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+Finished this batch.
+
+Processing repos 251 through 260 (of 263)...
+251. Checking repo 'academicpages/academicpages.github.io' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+252. Checking repo 'octocat/Spoon-Knife' for PRs containing 'translate readme'...
+   Found 5 matching PR(s):
+      - README.md japanese translation (https://github.com/octocat/Spoon-Knife/pull/25445)
+      - adding readme translated into Spanish (https://github.com/octocat/Spoon-Knife/pull/21777)
+      - Added a translation to Serbian language of the Readme. (https://github.com/octocat/Spoon-Knife/pull/21034)
+      - Translate README (https://github.com/octocat/Spoon-Knife/pull/14795)
+      - Translate README to Russian (https://github.com/octocat/Spoon-Knife/pull/12746)
+------------------------------------------------------------
+253. Checking repo 'dotnet/AspNetCore.Docs' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+254. Checking repo 'mmistakes/minimal-mistakes' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+255. Checking repo 'gabrielecirulli/2048' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+256. Checking repo 'alshedivat/al-folio' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+257. Checking repo 'ArduPilot/ardupilot' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+258. Checking repo 'FreeRDP/FreeRDP' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+259. Checking repo 'juice-shop/juice-shop' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+260. Checking repo 'jhu-ep-coursera/fullstack-course4' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+Finished this batch.
+
+Processing repos 261 through 263 (of 263)...
+261. Checking repo 'TheOdinProject/curriculum' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+262. Checking repo 'CoreyMSchafer/code_snippets' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+263. Checking repo 'MicrosoftDocs/azure-docs' for PRs containing 'translate readme'...
+   No matching PRs found.
+------------------------------------------------------------
+Finished this batch.
