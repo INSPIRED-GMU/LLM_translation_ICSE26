@@ -1,5 +1,5 @@
 
-### LLM\_translation\_ASE
+### LLM\_translation\_ICSE
 
 * The **root directory** contains a `translation_repos` folder with the sample README files that are translated and evaluated using the **TriFid** framework.
 * The `Metrics_out` directories(`small`, `medium`, and `large`) includes the pull-request scripts and CSV files that capture adoption and survival metrics.
